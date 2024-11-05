@@ -6,6 +6,7 @@ import java.util.List;
 
 /**
  * Author tunnels4u (Anjali)
+ * Queue with the ability to add at end, remove from top and random access in constant time
  **/
 public class RandomAccessQueue<E> {
 
