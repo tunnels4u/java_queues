@@ -1,4 +1,4 @@
-# RandomAccessQueue java
+# RandomAccessQueue.java
 
 This is a free to reuse - RandomAccessQueue with constant time (O(1)) addition, removal and random access.
 Please also have a look at the license file.
