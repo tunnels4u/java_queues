@@ -12,7 +12,7 @@ If you find it is useful for you and the community and more customised java data
 - jdk 1.8
 
 
-**Queue has the ability to add at end, remove from top and random acess**
+**Queue has the ability to add at end, remove from top and random access**
 
 -  Please let me know if you need more utilities for this queue, I can provide more versions of it.
 
