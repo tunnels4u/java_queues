@@ -5,7 +5,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Author tunnels4u (Anjali) Queue with the ability to add at end, remove from
+ * Author tunnels4u (Anjali) 
+ * Queue with the ability to add at end, remove from
  * top and random access in constant time
  **/
 public class RandomAccessQueue<E> {
@@ -29,13 +30,17 @@ public class RandomAccessQueue<E> {
 	}
 
 	private void shuffleList() {
-		if (list.size() > 1) {
-			list = (List<E>) list.subList(1, list.size());// O(1) time
+
+		int listSize = list.size();
+		if (listSize > 1) {
+			list = (List<E>) list.subList(1, listSize);// O(1) time
+		} else {
+			list.remove(0);
 		}
 	}
-	
+
 	public int size() {
-		return deQueue.size();
+		return list.size();
 	}
 
 }
