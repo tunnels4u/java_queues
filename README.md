@@ -1,9 +1,10 @@
 # RandomAccessQueue.java
 
-This is a free to reuse - RandomAccessQueue with constant time (O(1)) addition, removal and random access.
+This is a free to reuse - Random Access Queue with constant time (O(1)) addition, removal and random access.
 Please also have a look at the license file.
 
-If you find it is useful for you and the community and more customised java data structures should be developed, please consider hitting that sponsorship button on the right!
+If you find it is useful for you and the community and more customised java data structures should be developed, 
+please consider hitting that sponsorship button on the right ! or if you feel like, just buy me a coffee!
 
 ## How to use it?
 
