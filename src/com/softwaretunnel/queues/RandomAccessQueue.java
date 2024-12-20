@@ -1,6 +1,5 @@
 package com.softwaretunnel.queues;
 
-import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.List;
 
